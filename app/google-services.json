@@ -1,0 +1,335 @@
+{
+  "project_info": {
+    "project_number": "594292908788",
+    "firebase_url": "https://career-15be8.firebaseio.com",
+    "project_id": "career-15be8",
+    "storage_bucket": "career-15be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594292908788:android:fa5c676ec8c3727d",
+        "android_client_info": {
+          "package_name": "com.example.career.career"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi0kX0rtQXzOiX-cbAIbKZqCugh3HrJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594292908788:android:e78eacb5b7ceb23a",
+        "android_client_info": {
+          "package_name": "com.nodeflux.numellow.sampleresult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi0kX0rtQXzOiX-cbAIbKZqCugh3HrJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594292908788:android:7fbb7cc2f5858f49",
+        "android_client_info": {
+          "package_name": "com.nodeflux.africacareerguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi0kX0rtQXzOiX-cbAIbKZqCugh3HrJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594292908788:android:79a615e7a931c237",
+        "android_client_info": {
+          "package_name": "com.nodeflux.resultcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi0kX0rtQXzOiX-cbAIbKZqCugh3HrJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594292908788:android:3999b74431b1e4bc",
+        "android_client_info": {
+          "package_name": "com.nodeflux.finalresultapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi0kX0rtQXzOiX-cbAIbKZqCugh3HrJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594292908788:android:4c2a2ffbfb59cc7b",
+        "android_client_info": {
+          "package_name": "com.nodeflux.course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi0kX0rtQXzOiX-cbAIbKZqCugh3HrJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594292908788:android:46c37f37d6bea1a4",
+        "android_client_info": {
+          "package_name": "com.nodeflux.university"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi0kX0rtQXzOiX-cbAIbKZqCugh3HrJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594292908788:android:167106770c96c18d",
+        "android_client_info": {
+          "package_name": "com.nodeflux.courselist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi0kX0rtQXzOiX-cbAIbKZqCugh3HrJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594292908788:android:7f75170aeb4f9ac1",
+        "android_client_info": {
+          "package_name": "com.nodeflux.courselistv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdi0kX0rtQXzOiX-cbAIbKZqCugh3HrJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594292908788-gckdvo5p7lu53ba4euiv0run3f0djun8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
